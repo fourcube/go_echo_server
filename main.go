@@ -1,5 +1,5 @@
 // A simple echo server written in go
-package main
+package main // import "github.com/fourcube/go_echo_server"
 
 import (
 	"bufio"
